@@ -5,17 +5,12 @@ Forked 6 Axis LinuxCNC-RIO Raspberry-PI FPGA-Hat - kicad project
 
 **experimental**
 
-
 ![rio-iceshield](./rio-iceshield.png)
 
 ![pcb](./pcb.png)
 
 ## software / gateware
 https://github.com/multigcs/riocore
-
-## BOM
-
-
 
 ## to provide a clock signal for the FPGA
 ```
