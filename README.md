@@ -36,4 +36,4 @@ Make sure `riocore/boards/IceShield/board.json` reflects this setting, for examp
 WiringPi must be installed to use the `gpio` command.
 
 You can download it from:
-[https://github.com/WiringPi/WiringPi/releases/tag/3.0](https://github.com/WiringPi/WiringPi/releases/tag/3.0)
+[https://github.com/WiringPi/WiringPi/releases/tag/3.0](https://github.com/WiringPi/WiringPi/releases/)
